@@ -4,45 +4,51 @@ Full Stack Developer | Laravel, Angular, React, UI/UX | Taxco de Alarcón, Guerr
 🔥 Apasionado por crear soluciones robustas, optimizadas y visualmente atractivas.
 
 ## Sobre mí
-- 💡 Experiencia en backend: Laravel, Java, Spring Boot
-- 🎨 Frontend: Angular, React, Bootstrap
-- 🖌️ Diseño / maquetación: Figma, HTML5, CSS3
-- 📱 Mobile: Flutter
-- ⚙️ DevOps: Docker, Git, GitHub Actions
-- 🗄️ Bases de datos: MySQL, Oracle, SQL Server
-- 🌎 Trabajando proyectos para clientes de México y Latinoamérica
+- 💡 Experiencia: backend (Laravel, Java, Spring Boot), frontend (Angular, React, Bootstrap), mobile (Flutter)  
+- 🖌️ Diseño en Figma y maquetación responsive  
+- ⚙️ Docker, Git, GitHub Actions  
+- 🗄️ MySQL, Oracle, SQL Server  
+- 🌎 Clientes de México y Latinoamérica
 
-🎯 Aporto valor integrando APIs, automatizando procesos y entregando productos de calidad profesional. Documentación clara, comunicación efectiva y entregas a tiempo. Tengo proyectos publicados en Play Store y soluciones reales para negocios.
+🎯 Aporto valor integrando APIs, automatizando procesos y entregando productos de calidad. Proyectos publicados en Play Store y soluciones reales para negocios.
+
+---
+
+## ¿Cómo puedo ayudarte?
+- Crear o mejorar tu web/app
+- Automatizar procesos y conectar APIs
+- Diseño UX/UI y maquetado en Figma
+- Consultoría y soporte tecnológico
+
+---
 
 ## Proyectos destacados
-- extencionesAutomatizadas — Scripts para automatizar tareas complejas
-- appHospital — Sistema para hospitales en Flutter
-- ruleta — Sistema de sorteos y ventas de boletos (MVC)
-- pedidos — Plataforma de pedidos en PHP
+- [extencionesAutomatizadas](https://github.com/devGatito/extencionesAutomatizadas) — Scripts para automatizar tareas complejas  
+  ![Demo](ruta/demo_extensiones.gif)
+- [appHospital](https://github.com/devGatito/appHospital) — Sistema para hospitales en Flutter  
+- [ruleta](https://github.com/devGatito/ruleta) — Sistema de sorteos y ventas de boletos (MVC)
+- [pedidos](https://github.com/devGatito/pedidos) — Plataforma de pedidos en PHP
 
-(Pinea los repositorios que quieras destacar en tu perfil desde la opción "Customize profile" → "Featured repositories".)
+_Pin tus favoritos en "Featured repositories" en tu perfil._
+
+---
 
 ## Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+[Badges igual que tienes 📌]
 
-## Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devGatito&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGatito&layout=compact&theme=radical)
+---
 
 ## Contacto
-- ✉️ Email: eliasmisaelsotojimenez1@gmail.com
-- LinkedIn: (agrega tu LinkedIn aquí)
-- Facebook: (tu perfil)
+✉️ [eliasmisaelsotojimenez1@gmail.com](mailto:eliasmisaelsotojimenez1@gmail.com)  
+Facebook: Elias Misael
+
+---
 
 ## Organizaciones
 Miembro de: dna-nova-dev · CodersComunnity · java-coders-2025 · StreamixPlatform · PLAN-IA
 
 ---
+
+**¡Estoy disponible para nuevos proyectos freelance o colaboraciones! Escríbeme sin compromiso 🙂**
 
 Última actualización: <!--LAST_UPDATED-->
